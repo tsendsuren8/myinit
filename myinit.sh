@@ -7,3 +7,4 @@ sudo apt install -y apt-transport-https
 echo "deb https://download.sublimetext.com/ apt/stable/" | sudo tee /etc/apt/sources.list.d/sublime-text.list
 sudo apt update
 sudo apt install -y sublime-text
+sudo snap install telegram-desktop
